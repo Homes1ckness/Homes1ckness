@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Homes1ckness" alt="name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&repeat=false&lines=Hi%2C+I'm+Homes1ckness" alt="name" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&pause=1800&color=7AA2F7&center=true&vCenter=true&width=800&height=55&lines=I+build+things+that+matter.;Endlessly+curious+about+systems+%26+algorithms.;Coffee+in%2C+code+out.;Let's+create+something+great+together." alt="about" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&pause=1800&color=7AA2F7&center=true&vCenter=true&width=800&height=55&lines=I+build+things+that+matter.;Coffee+in%2C+code+out.;Let's+create+something+great+together." alt="about" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ### Experience
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&pause=1000&color=F7768E&center=true&vCenter=true&width=700&height=55&lines=Where+I've+been+%26+what+I'm+building" alt="experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&pause=1000&color=F7768E&center=true&vCenter=true&width=700&height=55&repeat=false&lines=Where+I've+been+%26+what+I'm+building" alt="experience" />
 </p>
 
 <p align="center">
