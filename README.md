@@ -27,7 +27,27 @@
 
 ---
 
+### Experience
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&pause=1000&color=F7768E&center=true&vCenter=true&width=700&height=55&lines=Where+I've+been+%26+what+I'm+building" alt="experience" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nankai%20University-5C2D91?style=for-the-badge&logoColor=white" />
+</p>
+<p align="center">
+  <b>B.S. in Computer Science & Technology</b> &nbsp;·&nbsp; <i>Sep 2023 – Present</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ByteDance-161823?style=for-the-badge&logo=tiktok&logoColor=white" />
+</p>
+<p align="center">
+  <b>Software Engineer Intern · Douyin E-commerce</b> &nbsp;·&nbsp; <i>Apr 2026 – Present</i>
+</p>
+
+---
 
 ### Reach Me
 
@@ -40,11 +60,10 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username&label=Profile+Views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Homes1ckness&label=Profile+Views&color=58A6FF&style=flat" alt="profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
 <!--
 **Homes1ckness/Homes1ckness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
