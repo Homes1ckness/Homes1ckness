@@ -54,10 +54,17 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Homes1ckness&label=Profile+Views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&weight=400&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&height=50&repeat=false&lines=%E2%9C%A6+thanks+for+stopping+by+%E2%9C%A6" alt="thanks" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Homes1ckness&label=you+are+visitor&color=58a6ff&style=social" alt="profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+
+
 <!--
 **Homes1ckness/Homes1ckness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
