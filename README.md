@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&repeat=false&lines=Hi%2C+I'm+Homes1ckness" alt="name" />
 </p>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&pause=1800&color=7AA2F7&center=true&vCenter=true&width=800&height=55&lines=I+build+things+that+matter.;Coffee+in%2C+code+out.;Let's+create+something+great+together." alt="about" />
 </p>
@@ -30,17 +28,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nankai%20University-5C2D91?style=for-the-badge&logoColor=white" />
-</p>
-<p align="center">
-  <b>B.S. in Computer Science & Technology</b> &nbsp;·&nbsp; <i>Sep 2023 – Present</i>
+  <img src="assets/nankai.svg" height="28" />
+  &nbsp;&nbsp;
+  <b>Nankai University</b> &nbsp;—&nbsp; B.S. in Computer Science & Technology &nbsp;·&nbsp; <i>Sep 2023 – Present</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ByteDance-161823?style=for-the-badge&logo=tiktok&logoColor=white" />
-</p>
-<p align="center">
-  <b>Software Engineer Intern · Douyin E-commerce</b> &nbsp;·&nbsp; <i>Apr 2026 – Present</i>
+  <img src="assets/bytedance.svg" height="28" />
+  &nbsp;&nbsp;
+  <b>ByteDance</b> &nbsp;—&nbsp; Software Engineer Intern &nbsp;·&nbsp;
+  <img src="assets/tiktok.svg" height="20" />
+  &nbsp;<b>Douyin E-commerce</b> &nbsp;·&nbsp; <i>Apr 2026 – Present</i>
 </p>
 
 ---
