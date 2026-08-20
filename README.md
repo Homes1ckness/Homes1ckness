@@ -38,7 +38,7 @@
   &nbsp;&nbsp;
   <b>ByteDance</b> &nbsp;—&nbsp; Software Engineer Intern &nbsp;·&nbsp;
   <img src="assets/tiktok.svg" height="20" />
-  &nbsp;<b>Douyin E-commerce</b> &nbsp;·&nbsp; <i>Apr 2026 – Present</i>
+  &nbsp;<b>Douyin E-commerce</b> &nbsp;·&nbsp; <i>Apr 2026 – Aug 2026</i>
 </p>
 
 ---
